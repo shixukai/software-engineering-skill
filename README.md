@@ -28,10 +28,9 @@ The Skill under development organizes its guidance around tasks, so an agent can
 
 ## Workflow preview
 
-These original 27-second animations illustrate the intended interaction. They are not recordings of a working installation, a benchmark or a real project result.
+This original 27-second animation illustrates the intended interaction. It is not a recording of a working installation, a benchmark or a real project result.
 
-- [Watch the English preview](assets/workflow-preview.en.mp4)
-- [观看中文示意短片](assets/workflow-preview.zh-CN.mp4)
+https://github.com/user-attachments/assets/3a075073-f99e-46dc-869e-ce11d510254d
 
 ## Scope
 
