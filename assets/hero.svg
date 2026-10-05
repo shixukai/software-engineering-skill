@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-labelledby="title desc">
+  <title id="title">Software Engineering</title>
+  <desc id="desc">Engineering guidance for AI coding agents. Choose a task, inspect evidence, and report what was verified. Experimental preview.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#f5f5eb" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="470" rx="20" fill="#101515"/>
+  <rect width="1280" height="470" rx="20" fill="url(#grid)"/>
+  <path d="M0 2H1280" stroke="#bef264" stroke-width="4"/>
+  <g font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+    <rect x="58" y="52" width="25" height="25" rx="5" fill="#bef264"/>
+    <path d="m65 61 4 4-4 4m8 0h4" stroke="#101515" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <text x="98" y="71" font-size="15" letter-spacing="3" font-weight="600" fill="#c7ceca">SOFTWARE ENGINEERING SKILL</text>
+    <text x="55" y="167" font-size="76" font-weight="650" letter-spacing="-3" fill="#f6f5ed">Software</text>
+    <text x="55" y="247" font-size="76" font-weight="650" letter-spacing="-3" fill="#f6f5ed">Engineering</text>
+    <text x="60" y="296" font-size="24" fill="#bec7c1">Guidance for AI coding agents</text>
+    <rect x="60" y="355" width="208" height="32" rx="16" fill="#bef264"/>
+    <text x="164" y="377" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.5" fill="#142018">EXPERIMENTAL PREVIEW</text>
+    <text x="286" y="377" font-size="14" fill="#8d9b94">Task-led · Evidence-aware</text>
+    <rect x="701" y="53" width="517" height="354" rx="14" fill="#192121" stroke="#34403b"/>
+    <circle cx="727" cy="78" r="4" fill="#748378"/>
+    <circle cx="743" cy="78" r="4" fill="#748378"/>
+    <circle cx="759" cy="78" r="4" fill="#748378"/>
+    <text x="1190" y="83" text-anchor="end" font-size="11" font-weight="600" letter-spacing="1.5" fill="#98a69e">ON-DEMAND READING</text>
+    <path d="M701 101H1218" stroke="#34403b"/>
+    <path d="M743 155V340" stroke="#57664e" stroke-width="2"/>
+    <g fill="#bef264">
+      <circle cx="743" cy="155" r="15"/><circle cx="743" cy="246" r="15"/><circle cx="743" cy="337" r="15"/>
+    </g>
+    <g fill="#19221b" font-size="12" font-weight="700" text-anchor="middle">
+      <text x="743" y="159">01</text><text x="743" y="250">02</text><text x="743" y="341">03</text>
+    </g>
+    <g fill="#f6f5ed" font-size="23" font-weight="600">
+      <text x="782" y="154">Choose the task</text>
+      <text x="782" y="245">Inspect the evidence</text>
+      <text x="782" y="336">State what was verified</text>
+    </g>
+    <g fill="#aab8af" font-size="15">
+      <text x="782" y="181">Read the relevant workflow and method</text>
+      <text x="782" y="272">Check assumptions against project facts</text>
+      <text x="782" y="363">Keep limits and open questions visible</text>
+    </g>
+  </g>
+</svg>
