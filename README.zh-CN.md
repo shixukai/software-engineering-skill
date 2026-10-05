@@ -28,10 +28,9 @@
 
 ## 工作流程示意
 
-两段原创短片均为 27 秒，用来说明预期交互方式。它们不是实际安装运行、性能测试或真实项目结果的录像。
+这段原创短片为 27 秒，用来说明预期交互方式。它不是实际安装运行、性能测试或真实项目结果的录像。
 
-- [观看中文示意短片](assets/workflow-preview.zh-CN.mp4)
-- [Watch the English preview](assets/workflow-preview.en.mp4)
+https://github.com/user-attachments/assets/f8a918e0-594f-4232-ab0f-bd87f8b0b2c7
 
 ## 内容范围
 
