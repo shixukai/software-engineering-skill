@@ -1,20 +1,26 @@
-# Project status
+# Installation preview status
 
-Updated: 2026-10-05.
+Version: `0.1.0-preview.1` · Pre-release · 2026-10-05.
 
-## Available in this repository
+## Included
 
-- English introduction and Simplified Chinese translation
-- Original SVG overview
-- English and Chinese illustrative workflow videos
-- MIT license for these original project materials
+The `skills/software-engineering/` folder contains 154 Markdown runtime files: one entry, ten workflows, 23 topic indexes, 83 rules, 36 methods and one source directory. Original project text is licensed under MIT; third-party source rights are preserved in [NOTICE.md](NOTICE.md).
 
-## Not yet published
+## Checked for this preview
 
-The installable `software-engineering` Skill runtime is not included. No runtime release or global installation is implied by this project preview.
+- The selected runtime file boundary excludes development history, private reviews, recovery material, full source books and book images
+- Static relative-link and anchor checks cover the whole runtime; all ten entry workflow routes have existing targets
+- The package version and per-file checksums are explicit
+- The documented copy and removal layout is limited to a new temporary practice directory; these filesystem checks do not verify host loading or model behavior
 
-The candidate has undergone bounded source-attribution review and static checks covering file boundaries, links and workflow routes. Final behavior and host-discovery checks remain incomplete. A failed execution attempt is not counted as a successful check.
+## Still unverified
 
-The candidate remains held under its publication requirements. Synthetic checks on older development versions do not certify a changed public package. Natural-language activation and real-world engineering impact have not been established.
+- Successful discovery and explicit loading of this public package in a host
+- Final-package model behavior and full acceptance, including the algorithm method
+- Natural-language automatic activation and real-world engineering impact
 
-The videos show a concept, not an executed task. No claim of improved quality, reduced cost or faster delivery is made.
+The preparation environment did not complete a CLI model run. No attempted run is reported as a pass. Historical checks on other package bytes do not certify this preview.
+
+This release deliberately exposes an installation preview with these limits. It is not a stable release or a claim of improved engineering quality, speed or cost. Use original fictional inputs in a disposable directory. A separate directory does not isolate existing host permissions, connections or configuration.
+
+The videos are illustrative animations, not recordings of an executed task. The complete package checksum list is [SHA256SUMS](SHA256SUMS).
